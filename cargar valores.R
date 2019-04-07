@@ -1,0 +1,13 @@
+P <- matrix(NA,100,0)
+P<-cbind(P,pruebaP[,1])
+P<-cbind(P,pruebaP[,2])
+P<-cbind(P,pruebaP[,3])
+# P<-cbind(P,pruebaP[,4])
+# P<-cbind(P,pruebaP[,5])
+
+Q <- matrix(NA,100,0)
+Q<-cbind(Q,pruebaQ[,1])
+Q<-cbind(Q,pruebaQ[,2])
+Q<-cbind(Q,pruebaQ[,3])
+# Q<-cbind(Q,pruebaQ[,4])
+# Q<-cbind(Q,pruebaQ[,5])
